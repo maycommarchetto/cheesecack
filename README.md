@@ -36,4 +36,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Thiago Costa :wave:
+Product by Maycom Marchetto :wave:
